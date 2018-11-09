@@ -71,7 +71,7 @@
         android:layout_marginBottom="40dp"
         android:layout_marginLeft="28dp"
         android:layout_marginStart="28dp"
-        android:text="スタート"
+        android:text="@string/Start_btn"
         android:textSize="15pt"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />

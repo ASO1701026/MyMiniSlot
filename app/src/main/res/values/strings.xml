@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyMiniSlot</string>
     <string name="money">1000</string>
+    <string name="Start_btn">Start</string>
 </resources>
